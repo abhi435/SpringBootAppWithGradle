@@ -6,3 +6,5 @@
 .factorypath
 .project
 /.mvn/
+/.idea/
+build/
